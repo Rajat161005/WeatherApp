@@ -55,8 +55,9 @@ Enter the name of any city to get the current weather.
 #OUTPUT
 
 #Terminal Output
+![Image](https://github.com/user-attachments/assets/9df868b3-3b8e-45ac-a87a-c0ae83d8a53c)
 
-
+Sample Output
 
 
 
