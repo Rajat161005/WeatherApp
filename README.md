@@ -4,18 +4,18 @@ A simple Java console application that fetches and displays real-time weather in
 
 #Features
 
-- Fetches current weather data for any city
-- Uses REST API to get data from OpenWeather
-- Parses JSON responses using `org.json`
-- Clean and structured output on the console
-- Built using Maven
+1.Fetches current weather data for any city
+2.Uses REST API to get data from OpenWeather
+3.Parses JSON responses using `org.json`
+4.Clean and structured output on the console
+5.Built using Maven
 
 #Prerequisites
 
-- Java (JDK 11 or higher)
-- Maven
-- Internet connection
-- OpenWeatherMap API key (free)
+1.Java (JDK 11 or higher)
+2.Maven
+3.Internet connection
+4.OpenWeatherMap API key (free)
 > You can get a free API key by signing up at [https://openweathermap.org/api](https://openweathermap.org/api).
 
 #Project Structure
@@ -58,7 +58,7 @@ Enter the name of any city to get the current weather.
 ![Image](https://github.com/user-attachments/assets/9df868b3-3b8e-45ac-a87a-c0ae83d8a53c)
 
 Sample Output
-
+![Image](https://github.com/user-attachments/assets/09ed52fe-d230-4c7d-aa6e-991706559c19)
 
 
 
