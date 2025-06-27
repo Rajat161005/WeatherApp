@@ -1,0 +1,9 @@
+# Ignore Maven target directory
+target/
+
+# Ignore IDE-specific and OS-specific files
+.idea/
+*.iml
+*.log
+*.class
+.DS_Store
