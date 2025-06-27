@@ -6,7 +6,7 @@ A simple Java console application that fetches and displays real-time weather in
 
 1.Fetches current weather data for any city
 2.Uses REST API to get data from OpenWeather
-3.Parses JSON responses using `org.json`
+3.Parses JSON responses using org.json
 4.Clean and structured output on the console
 5.Built using Maven
 
