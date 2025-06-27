@@ -1,0 +1,72 @@
+#WeatherApp
+
+A simple Java console application that fetches and displays real-time weather information using the [OpenWeatherMap API](https://openweathermap.org/api).
+
+#Features
+
+- Fetches current weather data for any city
+- Uses REST API to get data from OpenWeather
+- Parses JSON responses using `org.json`
+- Clean and structured output on the console
+- Built using Maven
+
+#Prerequisites
+
+- Java (JDK 11 or higher)
+- Maven
+- Internet connection
+- OpenWeatherMap API key (free)
+> You can get a free API key by signing up at [https://openweathermap.org/api](https://openweathermap.org/api).
+
+#Project Structure
+
+WeatherApp/
+├── pom.xml
+├── .gitignore
+├── README.md
+└── src/
+└── main/
+└── java/
+└── WeatherApp.java
+
+#How to Run
+
+1.Update your API key
+
+In WeatherApp.java, replace:
+String apiKey = "YOUR_API_KEY";
+with your actual OpenWeatherMap API key.
+
+2.Build and run the app
+#Commands for run the program
+(a)mvn clean compile then 
+(b)mvn exec:java
+
+3.Follow the prompt
+Enter the name of any city to get the current weather.
+
+#Technologies Used
+
+1.Java
+2.Maven
+3.OpenWeatherMap API
+4.org.json (for parsing)
+
+#OUTPUT
+
+#Terminal Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
